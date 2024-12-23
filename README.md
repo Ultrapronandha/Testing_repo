@@ -93,7 +93,7 @@ chmod -Rf 777 ./KODExplorer/*
 ```
 wget https://github.com/kalcaddle/KODExplorer/archive/master.zip
 unzip master.zip
-chmod -Rf 778 ./*
+chmod -Rf 777 ./*
 ```
 
 
