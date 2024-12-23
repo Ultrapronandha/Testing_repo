@@ -39,7 +39,7 @@
     - Keyboard shortcuts: delete deletion, ctrl+A select, ctrl+C replication, ctrl+X splicing, up/down/left/right/home/end etc.
     - Multiple actions support for selected files & folders:   move,copy,cute,remove,rename,open,archive,delete,download etc.
     - Double or single click setup to open files & folders
-    - Filetree: allow to open and display multiple subfolders at a time
+    - File tree: allow to open and display multiple sub folders at a time
     - Implemented natural sorting on the client-side
     - List,Icons and Split view;
     - Move/Copy/Clone/Delete files with Drag & Drop
@@ -83,7 +83,7 @@
 
 # Install
 
-**1. Install from source**
+**1. Install from source new**
 ```
 git clone https://github.com/kalcaddle/KODExplorer.git
 chmod -Rf 777 ./KODExplorer/*
@@ -93,7 +93,7 @@ chmod -Rf 777 ./KODExplorer/*
 ```
 wget https://github.com/kalcaddle/KODExplorer/archive/master.zip
 unzip master.zip
-chmod -Rf 777 ./*
+chmod -Rf 778 ./*
 ```
 
 
