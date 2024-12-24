@@ -125,7 +125,7 @@ var artDialog = function (config, ok, cancel) {
 
 	if (elem && api) return api.follow(elem).zIndex().focus();
 	if (api) return api.zIndex().focus().display(true);
-
+        // new
 	// 目前主流移动设备对fixed支持不好
 	if (_isMobile) config.fixed = false;
 
