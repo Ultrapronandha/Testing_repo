@@ -70,7 +70,7 @@
     - Fully customizable key bindings including vim and Emacs modes
     - Search and replace with regular expressions;Highlight matching parentheses
     - Toggle between soft tabs and real tabs
-    - Displays hidden characters
+    - Displays hidden characters.
     - Drag and drop text using the mouse
     - Live syntax checker (JavaScript/CoffeeScript/CSS/XQuery/HTML/PHP etc.)
     - Cut, copy, and paste functionality
